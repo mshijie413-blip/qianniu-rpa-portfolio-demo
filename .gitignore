@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env*
+*.sqlite3*
+*.db
+*.xlsx
+*.xls
+*.csv
+*.log
+demo_result.json
+data/
+input/
+outputs/
+logs/
