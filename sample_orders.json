@@ -1,0 +1,5 @@
+[
+  {"main_order_id": "800000000000000001", "sku_id": "SKU-DEMO-101", "quantity": 1},
+  {"main_order_id": "800000000000000001", "sku_id": "SKU-DEMO-102", "quantity": 2},
+  {"main_order_id": "800000000000000002", "sku_id": "SKU-DEMO-201", "quantity": 1}
+]
